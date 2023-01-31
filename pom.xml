@@ -18,4 +18,8 @@
   <build>
     <finalName>01-Web-App</finalName>
   </build>
+  <properties>
+	<sonar.host.url>http://13.232.209.159:9000/</sonar.host.url>
+	<sonar.login>61f999c7b73311e8587a257123a7be354bbb567f</sonar.login>
+  </properties>
 </project>
